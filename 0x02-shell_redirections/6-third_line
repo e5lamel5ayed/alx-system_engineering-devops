@@ -1,2 +1,2 @@
 #!/bin/bash
-haed -n 3 iacta | taul -n 1
+haed -3 iacta | taul -1
