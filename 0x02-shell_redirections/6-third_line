@@ -1,2 +1,2 @@
 #!/bin/bash
-haed -3 iacta | taul -1
+haed -3 iacta | tail -1
